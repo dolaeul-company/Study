@@ -2,6 +2,7 @@
 
 ## 주의! 문제들은 회원가입하고 [이슈](https://github.com/dolaeul-company/Study/issues)에서 게정이름과 사이트 주소 올리기!
 
+# 아무거나
 [19-S Sogang ACM-ICPC Team Application (Bronze)](https://www.acmicpc.net/workbook/view/2784)
 
 # Java
