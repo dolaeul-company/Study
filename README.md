@@ -5,6 +5,10 @@
 # 아무거나
 [19-S Sogang ACM-ICPC Team Application (Bronze)](https://www.acmicpc.net/workbook/view/2784)
 
+# Python
+
+[파이썬 문제](https://www.acmicpc.net/workbook/view/2784)
+
 # Java
 
 [자바 문제](https://www.acmicpc.net/workbook/view/2784)
