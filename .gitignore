@@ -1,2 +1,5 @@
 .vscode/tasks.json
 BOJ/*.exe
+Test/C/*.exe
+Test/C#/*.exe
+Test/Cpp/*.exe
